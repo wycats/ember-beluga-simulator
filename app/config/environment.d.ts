@@ -1,6 +1,6 @@
 /**
  * Type declarations for
- *    import config from 'vitejs-vite-k1nhrv/config/environment'
+ *    import config from 'discord-clone/config/environment'
  */
 declare const config: {
   environment: string;

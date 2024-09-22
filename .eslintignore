@@ -12,3 +12,7 @@
 
 # ember-try
 /.node_modules.ember-try/
+
+# not JS
+*.json
+*.html

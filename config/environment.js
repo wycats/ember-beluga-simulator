@@ -2,7 +2,7 @@
 
 module.exports = function (environment) {
   const ENV = {
-    modulePrefix: 'vitejs-vite-k1nhrv',
+    modulePrefix: 'discord-clone',
     environment,
     rootURL: '/',
     locationType: 'history',

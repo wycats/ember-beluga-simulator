@@ -1,5 +1,5 @@
-import Application from 'vitejs-vite-k1nhrv/app';
-import config from 'vitejs-vite-k1nhrv/config/environment';
+import Application from 'discord-clone/app';
+import config from 'discord-clone/config/environment';
 import * as QUnit from 'qunit';
 import { setApplication } from '@ember/test-helpers';
 import { setup } from 'qunit-dom';
